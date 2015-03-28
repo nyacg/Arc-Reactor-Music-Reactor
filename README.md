@@ -1,4 +1,4 @@
-# Arc-Reactor-Music-Reactor
+# Arc Music Reactor
 A script I used to make my Iron Man Arc reactor costume prop flash to the music.
 
 See it in action here: https://drive.google.com/folderview?id=0B2M9QlpnA8AqfklXQWpReVJHbWhWS3hXSlpYUE5UUFA0V2xBSDMwYVkxRjV3LV9QWVc4aXc&usp=sharing
